@@ -59,7 +59,9 @@
 }
 
 body {
-    background-color: #FFDAB9;
+    
+      background-image: url('Akshita.png');
+      background-size: cover;
 }
 
 img {
